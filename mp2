@@ -16,9 +16,11 @@ Dungeon.ni.Deai.o.Motomeru.no.wa.Machigatte.Iru.Darouka => 在地下城寻求邂
 Shingeki no Kyojin The Final Season Kanketsu-hen Zenpen S01E01 => {[tmdbid=1333100;type=movie]}
 #进击的巨人 最终季 完结篇  后篇 
 Shingeki no Kyojin The Final Season Kanketsu-hen Kouhen S01E01 => {[tmdbid=1406781;type=movie]}
-
-
-
+#美国恐怖故事 第十一季 xiaopie@CHDWEB源命名修正
+American.Horror.Story.S11E09.Requiem.1981.&.1987.Part.One => American.Horror.Story.S11E09
+American.Horror.Story.S11E10.Requiem.1981.&.1987.Part.Two => American.Horror.Story.S11E10
+#礼物 远藤宪一 松井玲奈 主演 识别错误修正
+Gift.2014.1080p.BluRay.x264-WiKi/Gift.2014.1080p.BluRay.x264-WiKi => {[tmdbid=308714;type=movie]}
 
 #观众源第二季合集的额外文件，“第十七集后半部分国语和英语音轨时轴对不上，故未合并，文件名带中文的是国语版”
 降世神通.Avatar.The.Last.Airbender.S02E17.2006.1080p.WEB-DL.H264.AAC-ADWeb
@@ -32,3 +34,5 @@ NCED
 SP.The.Three.Diablos.
 #绿色星球 wiki源额外文件屏蔽
 The.Green.Planet.2022.2160p.BluRay.x265.10bit.Atmos.TrueHD7.1-WiKi.Sample
+#礼物Gift wiki源额外文件屏蔽
+Gift.2014.1080p.BluRay.x264-WiKi.sample
