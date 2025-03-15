@@ -28,7 +28,7 @@ The Apothecary Diaries S02 => The Apothecary Diaries S01 && S01 <> 2025 >> EP+24
 #谈判专家识别错误修正
 谈判专家.Crisis.Negotiators.2024 => {[tmdbid=1255065;type=movie]}
 #荒野求生第五季 识别错误修正
-荒野求生 => {[tmdbid=4709;type=tv]}
+Man.vs.Wild => {[tmdbid=4709;type=tv]}
 
 
 #观众源第二季合集的额外文件，“第十七集后半部分国语和英语音轨时轴对不上，故未合并，文件名带中文的是国语版”
