@@ -22,7 +22,7 @@ American.Horror.Story.S11E10.Requiem.1981.&.1987.Part.Two => American.Horror.Sto
 #礼物 远藤宪一 松井玲奈 主演 识别错误修正
 Gift.2014.1080p.BluRay.x264-WiKi => {[tmdbid=308714;type=movie]}
 #神奇博士，pt源不带年份易识别错误，修正为指定tmdbid
-Doctor.Who => {[tmdbid=57243;type=tv}
+Doctor.Who => Doctor.Who.2005
 #药屋少女的呢喃(第二季转第一季)
 The Apothecary Diaries S02 => The Apothecary Diaries S01 && S01 <> 2025 >> EP+24
 #谈判专家识别错误修正
