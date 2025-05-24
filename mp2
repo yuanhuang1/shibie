@@ -31,6 +31,9 @@ The Apothecary Diaries S02 => The Apothecary Diaries S01 && S01 <> 2025 >> EP+24
 Man.vs.Wild => {[tmdbid=4709;type=tv]}
 #晚酌的流派 第一季特别篇，修正为s00e01
 Banshaku.no.Ryuugi.Nenmatsu.Special.S01E00 => Banshaku.no.Ryuugi.S00E01
+#Ghosted 神出鬼没 识别错误修正
+Ghosted.2023 => 神出鬼没.Ghosted.2023
+
 
 #观众源第二季合集的额外文件，“第十七集后半部分国语和英语音轨时轴对不上，故未合并，文件名带中文的是国语版”
 降世神通.Avatar.The.Last.Airbender.S02E17.2006.1080p.WEB-DL.H264.AAC-ADWeb
