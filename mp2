@@ -33,3 +33,6 @@ Banshaku.no.Ryuugi.Nenmatsu.Special.S01E00 => Banshaku.no.Ryuugi.S00E01
 Ghosted.2023 => {[tmdbid=868759;type=movie]}
 #韩国电影 等着你  Missing.You.2016 识别错误修正
 Missing.You.2016 => {[tmdbid=390433;type=movie]}
+# 闭上眼睛  Close.Your.Eyes.20236 识别错误修正
+Close.Your.Eyes.2023 => {[tmdbid=997294;type=movie]}
+
