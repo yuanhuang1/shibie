@@ -35,4 +35,5 @@ Ghosted.2023 => {[tmdbid=868759;type=movie]}
 Missing.You.2016 => {[tmdbid=390433;type=movie]}
 # 闭上眼睛  Close.Your.Eyes.20236 识别错误修正
 Close.Your.Eyes.2023 => {[tmdbid=997294;type=movie]}
-
+#再造淑女 Selfie  识别错误修正
+Selfie => {[tmdbid=60793;type=tv]}
