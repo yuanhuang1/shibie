@@ -39,3 +39,5 @@ Close.Your.Eyes.2023 => {[tmdbid=997294;type=movie]}
 Selfie => {[tmdbid=60793;type=tv]}
 #米奇妙妙屋 Mickey.Mouse.Clubhouse  识别错误修正
 Mickey.Mouse.Clubhouse => {[tmdbid=3934;type=tv]}
+#命运石之门 0 识别错误修正
+Steins;Gate.0 =>Steins;Gate.Zero 
