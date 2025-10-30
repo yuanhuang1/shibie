@@ -41,3 +41,5 @@ Selfie => {[tmdbid=60793;type=tv]}
 Mickey.Mouse.Clubhouse => {[tmdbid=3934;type=tv]}
 #命运石之门 0 识别错误修正
 Steins;Gate.0 => Steins;Gate.Zero 
+#南京照相馆 识别错误修正
+Dead.To.Rights.2025 => {[tmdbid=1500536;type=movie]}
