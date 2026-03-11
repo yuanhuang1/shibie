@@ -53,4 +53,6 @@ Doragon.kuesuto.Dai.no.daibouken => 勇者斗恶龙：达伊的大冒险
 Jujutsu.Kaisen.0.The.Movie.2021 =>  Jujutsu.Kaisen.Zero.2021
 #东离剑游纪 西幽玹歌
 东离剑游纪 西幽玹歌.2019 => {[tmdbid=642586;type=movie]}
-
+#杀戮都市 TV剧版 26集 分1，2季
+杀戮都市.Gantz.S01 => {[tmdbid=309422;type=tv;s=1]}
+杀戮都市.Gantz.S02 => {[tmdbid=309422;type=tv;s=2]}
