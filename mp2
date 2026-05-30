@@ -56,3 +56,7 @@ Jujutsu.Kaisen.0.The.Movie.2021 =>  Jujutsu.Kaisen.Zero.2021
 #杀戮都市 TV剧版 26集 分1，2季
 杀戮都市.Gantz.S01 => {[tmdbid=309422;type=tv;s=1]}
 杀戮都市.Gantz.S02 => {[tmdbid=309422;type=tv;s=2]}
+#RE0 第三季合并识别至第一季
+e.Zero.kara.Hajimeru.Isekai.Seikatsu.S03 => e.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01 <> 2024 >> EP+50
+#RE0 第四季合并识别至第一季
+e.Zero.kara.Hajimeru.Isekai.Seikatsu.S04 => e.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01 <> 2024 >> EP+66
