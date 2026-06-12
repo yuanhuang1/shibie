@@ -60,3 +60,5 @@ Jujutsu.Kaisen.0.The.Movie.2021 =>  Jujutsu.Kaisen.Zero.2021
 Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S03 => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01 <> 2024 >> EP+50
 #RE0 第四季合并识别至第一季
 Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S04 => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01 <> 2026 >> EP+66
+#尖峰时刻2 frds源命名错误修复
+Rush.Hour2.2001BluRay.1080p.x265.10bit.2Audio.MNHD-FRDS.mkv => Rush.Hour2.2001.BluRay.1080p.x265.10bit.2Audio.MNHD-FRDS.mkv
